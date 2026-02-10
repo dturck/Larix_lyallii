@@ -1,0 +1,39 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri Feb 21 10:49:29 2025]
+[!
+>Data file = 444_NA_only_dp05mis075_SVD.nexus
+]
+	Translate
+		1 trimmed_Asgard_WA_C_LAR,
+		2 trimmed_Billy_Goat_WA_C_LAR,
+		3 trimmed_Bob_MT_I_LAR,
+		4 trimmed_Bugaboo_BC_I_LAR,
+		5 trimmed_Carlton_MT_I_LAR,
+		6 trimmed_Carne_WA_C_LAR,
+		7 trimmed_Cutthroat_WA_C_LAR,
+		8 trimmed_Frozen_Lk_BC_I_LAR,
+		9 trimmed_Fuse_Lk_MT_I_LAR,
+		10 trimmed_Grave_Pk_ID_I_LAR,
+		11 trimmed_Harts_WA_C_LAR,
+		12 trimmed_Kokanee_BC_I_LAR,
+		13 trimmed_Leigh_Lake_Cabinets_MT_I_LAR,
+		14 trimmed_Lolo_MT_I_LAR,
+		15 trimmed_Losthorse_MT_I_LAR,
+		16 trimmed_Methow_WA_C_LAR,
+		17 trimmed_Mission_Mts_MT_I_LAR,
+		18 trimmed_NW_Peak_MT_I_LAR,
+		19 trimmed_Pintler_MT_I_LAR,
+		20 trimmed_Purcell_BC_I_LAR,
+		21 trimmed_Roman_Nose_ID_I_LAR,
+		22 trimmed_Salmon_Mtn_ID_I_LAR,
+		23 trimmed_St_Joseph_MT_I_LAR,
+		24 trimmed_St_Mary_MT_I_LAR,
+		25 trimmed_Swan_MT_I_LAR,
+		26 trimmed_Ten_Lakes_MT_I_LAR,
+		27 trimmed_Top_of_World_BC_I_LAR,
+		28 trimmed_Trapper_MT_I_LAR,
+		29 trimmed_Western_O_LAR
+		;
+tree 'PAUP_1' = [&U] (1:100,((2:100,(7:100,(11:100,16:100)61:61)38:38)64:64,6:100)83:83,((((3:100,(17:100,25:100)99:99)91:91,((((5:100,14:100)85:85,23:100)35:35,((((9:100,28:100)35:35,(19:100,22:100)43:43)48:48,15:100)88:88,10:100)32:32)24:24,24:100)100:100)100:100,((((((4:100,20:100)76:76,8:100)99:99,(12:100,27:100)55:55)100:100,(13:100,26:100)47:47)63:63,21:100)45:45,18:100)100:100)100:100,29:100)100:100)100;
+End;
